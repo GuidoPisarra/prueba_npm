@@ -11,7 +11,7 @@ const quotes = [
   
   /**
    * Gets a random Piñera Quote
-   * @returns {string}
+   * @return {string}
    */
   function randomQuote() {
     return quotes[Math.floor(Math.random() * quotes.length)];
