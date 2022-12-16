@@ -1,0 +1,19 @@
+{
+  "name": "prueba_npm",
+  "version": "1.0.0",
+  "description": "test para npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuidoPisarra/prueba_npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuidoPisarra/prueba_npm/issues"
+  },
+  "homepage": "https://github.com/GuidoPisarra/prueba_npm#readme"
+}
